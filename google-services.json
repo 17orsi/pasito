@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "860036587514",
+    "project_id": "librito-74090",
+    "storage_bucket": "librito-74090.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:860036587514:android:8d7a9d911ce4e8fd530e43",
+        "android_client_info": {
+          "package_name": "com.la35.librito"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEFqb6aH5t5e-G6Q6dw6vNKMRcuG5C4JQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
